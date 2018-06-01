@@ -1,4 +1,4 @@
-# Taller de OpenProdoc
+# Presentación OpenProdoc
 
 [Enlace a la presentación](https://nosturi.es/openprodoc-opensouthcode/docs/index.html#/).
 
